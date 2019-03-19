@@ -20,8 +20,8 @@ call vundle#end()
 syntax on
 set background=dark
 let g:solarized_termcolors=256
-colorscheme solarized
-" colorscheme spacegray
+"colorscheme solarized
+colorscheme spacegray
 
 filetype plugin indent on
 
